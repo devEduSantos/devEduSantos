@@ -3,6 +3,9 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da computação na Estácio.
 - 🌱 Aprendendo mais sobre:
+
+## Tecnologias
+
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 )
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -15,6 +18,7 @@
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
 )
 
+## Status Github
 [![card](https://github-readme-stats.vercel.app/api?username=devEduSantos&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=eduDevSantos&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
