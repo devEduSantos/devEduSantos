@@ -52,15 +52,15 @@ Estou evoluindo através de projetos práticos, exercícios e estudo contínuo, 
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devEduSantos\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devEduSantos\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak de Contribuições
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=devEduSantos\&theme=tokyonight)
 
 ---
 
@@ -90,7 +90,7 @@ Estou seguindo um roadmap estruturado de desenvolvimento backend, documentando m
 
 ## 📫 Contato
 
-💼 LinkedIn:[ https://www.linkedin.com/in/eduardo-santos-da-silva-7361b6250]
+💼 LinkedIn: https://www.linkedin.com/in/eduardo-santos-da-silva-7361b6250
 
 📌 Sempre aberto a oportunidades, networking e troca de conhecimento.
 
