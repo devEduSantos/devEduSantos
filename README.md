@@ -8,9 +8,9 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de Ciência da Computação com foco em desenvolvimento de software, atualmente em construção de base sólida em lógica de programação, Java e desenvolvimento backend.
+Sou estudante de Ciência da Computação com foco em desenvolvimento de software, construindo uma base sólida em lógica de programação, Java e desenvolvimento backend.
 
-Estou evoluindo através de projetos práticos, exercícios e estudo contínuo, sempre buscando escrever código limpo, organizado e profissional.
+Estou evoluindo através de projetos práticos, exercícios e estudo contínuo, com foco em escrever código limpo, organizado e alinhado às boas práticas do mercado.
 
 ---
 
@@ -52,9 +52,15 @@ Estou evoluindo através de projetos práticos, exercícios e estudo contínuo, 
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devEduSantos\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devEduSantos\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Streak de Contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME\&theme=tokyonight)
 
 ---
 
@@ -84,8 +90,9 @@ Estou seguindo um roadmap estruturado de desenvolvimento backend, documentando m
 
 ## 📫 Contato
 
-📧 Em breve
-💼 LinkedIn: Em breve
+💼 LinkedIn:[ https://www.linkedin.com/in/eduardo-santos-da-silva-7361b6250]
+
+📌 Sempre aberto a oportunidades, networking e troca de conhecimento.
 
 ---
 
